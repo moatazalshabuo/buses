@@ -73,7 +73,7 @@ function error(e){
 const firebaseConfig = {
   // ...
   // The value of `databaseURL` depends on the location of the database
-  databaseURL: "https://test-446ec-default-rtdb.firebaseio.com/",
+  databaseURL: "",
 };
 
 // Initialize Firebase

@@ -74,6 +74,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{{ route('user.login') }}">تسجيل الدخول كمستخدم</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ route('bus-login') }}">تسجيل دخول الحافلات</a>
+                    </li>
                 </ul>
             </div>
         </div>
