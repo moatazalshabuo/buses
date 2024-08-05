@@ -1,0 +1,15 @@
+{
+    "cairo": {
+        "normal": "cairo_normal_f02f4a7f05e603d1024dfcd37be9706d"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_6c7b9742dc5ae85c1a4a9ff1945464dc"
+    },
+    "font awesome 5 free": {
+        "normal": "C:\\Users\\Mohammed Ballut\\Desktop\\pp\\example-app\\storage\\fonts\/font_awesome_5_free_normal_53a461860a760912241c035ad97e42ed",
+        "900": "font_awesome_5_free_900_a496f8644d2cd386b5617d8f041a0ea0"
+    },
+    "amiri": {
+        "normal": "amiri_normal_10f6b9d66ec3725538dbe4f897f2abf4"
+    }
+}
